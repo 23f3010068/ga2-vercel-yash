@@ -1,2 +1,6 @@
 fastapi
 numpy
+google-genai
+openai
+yt-dlp
+
